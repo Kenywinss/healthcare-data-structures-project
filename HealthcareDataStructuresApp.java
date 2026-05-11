@@ -5,19 +5,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.util.Random;
 
-/**
- * COSC 214 Final Project - Evaluating Data Structures Using a Healthcare Dataset
- *
- * This single Java file implements four data structures from scratch:
- * 1. Dynamic Array
- * 2. Linked List
- * 3. Hash Table
- * 4. Priority Queue
- *
- * Each structure stores PatientRecord objects and supports insert, search, delete,
- * and traversal. The GUI allows the user to load sample records, add records,
- * search by ID, delete by ID, process admissions by priority, and run a benchmark.
- */
+
 public class HealthcareDataStructuresApp {
 
     /** PatientRecord models one simplified row from the healthcare dataset. */
