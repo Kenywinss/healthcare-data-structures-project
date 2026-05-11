@@ -1,0 +1,7 @@
+Name,Age,Gender,Blood Type,Medical Condition,Date of Admission,Hospital,Doctor,Insurance Provider,Billing Amount,Room Number,Admission Type,Discharge Date,Medication,Test Results
+Amina Cole,45,Female,A+,Diabetes,2026-01-10,Bowie General,Dr. Lee,BlueCross,1240.50,101,Elective,2026-01-12,Metformin,Normal
+Marcus Reed,61,Male,O-,Hypertension,2026-01-15,Capital Health,Dr. Smith,Aetna,2875.00,210,Urgent,2026-01-18,Lisinopril,Abnormal
+Nadia Brown,22,Female,B+,Asthma,2026-02-01,Howard Hospital,Dr. Patel,Cigna,4300.75,315,Emergency,2026-02-03,Albuterol,Inconclusive
+Kevin Hill,37,Male,AB+,Fracture,2026-02-05,Mercy Clinic,Dr. Jones,Medicare,5150.20,118,Emergency,2026-02-10,Ibuprofen,Normal
+Ruth Allen,70,Female,A-,Arthritis,2026-02-09,Bowie General,Dr. Lee,United,920.00,204,Routine,2026-02-12,Naproxen,Normal
+David King,29,Male,O+,Migraine,2026-02-14,Capital Health,Dr. Shah,BlueCross,1105.80,407,Urgent,2026-02-15,Sumatriptan,Normal
