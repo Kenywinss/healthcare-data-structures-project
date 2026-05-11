@@ -2,13 +2,6 @@ Healthcare Data Structures Project
 Team: Keny's Crew
 Member: Keny Nana
 
-Upload these files to Blackboard:
-1. HealthcareDataStructuresApp.java
-2. Final_HealthcareDataStructures_Report.docx
-3. Final_HealthcareDataStructures_Report.pdf
-4. Final_HealthcareDataStructures_Presentation.pptx
-5. HealthcareSampleData.csv if a sample dataset is allowed or needed for the demo
-
 How to run:
 1. Open a terminal in the folder containing HealthcareDataStructuresApp.java.
 2. Compile: javac HealthcareDataStructuresApp.java
